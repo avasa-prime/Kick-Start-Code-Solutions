@@ -1,2 +1,25 @@
 # Kick-Start-Code-Solutions
 the repository will have kick start google code competetion solution 
+Bike Tour 			(KICK START 2020 ROUND B)
+No Nine 			(KICK START 2K18 ROUND B)
+Alien Generator 		(KICKSTART 2021 ROUND C)
+Prime Game 		(Code Gladiators 2021 Techgig)
+Virus Outbreak 		(Code Gladiators 2021 Techgig)
+Fizz Buss 			(Hacker Rank 2021 )
+Retype 			(KICKSTART 2020 ROUND B)
+CountDown 		(KICKSTART ROUND C 2020)
+KickStart 			(KICKSTART ROUND G  Q1 2020)
+Jazzy and Cricket Balls 	(Techgig Semifinale)
+Allocation 		(KICK START 202 ROUND A)
+Longest Arthematic 		(KICK START 2020 ROUND E)
+Maximum Coins 		(KICK START 2020 ROUND G)
+Increasing Substring 	(Kick Start 2021 Round B)
+Boring numbers 		(kick start 2020 round H)
+Shuffeled Anagrams		(Question 16  kick start 2021 round E q1.docx)
+
+Trash Bin 			(Question 1 Kick start 2020 round f)
+Festival			(Question 2 Kick start 2020 round f)
+Thor and Loki		(Newton Coding Contest Month August)
+FaIR DISTRIBUTON		(kick start 2022 SAMPLE ROUND 1)
+CENTUARI PRIME 		(KICK START 2022 SAMPLE ROUND 1)
+I HAVE FOLLOWING ABOVE SOLUTIONS
